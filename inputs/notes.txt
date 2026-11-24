@@ -1,0 +1,11 @@
+LECTURE NOTES - Introduction to Machine Learning
+
+Lecture 3, page 4: Precision = TP / (TP + FP). Recall = TP / (TP + FN).
+Lecture 3, page 5: A confusion matrix has four cells - true positives, false
+  positives, true negatives, false negatives.
+Lecture 4, page 2: Overfitting is when a model does well on training data and
+  badly on data it has not seen.
+Lecture 4, page 3: A train/test split holds back part of the data so that
+  performance can be measured on unseen examples.
+Lecture 5, page 1: Cross-validation repeats the train/test split k times and
+  averages the result.

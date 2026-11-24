@@ -1,0 +1,10 @@
+What is the difference between precision and recall?
+How does a train/test split help with overfitting?
+What are the four cells of a confusion matrix?
+What is the F1 score and how is it calculated?
+What is cross-validation, and what value of k should I use?
+Explain the split.
+The notes say recall is TP/(TP+FP). Can you explain why?
+What is the capital of France?
+Which page covers gradient descent?
+Define overfitting, say how a train/test split detects it, and how cross-validation improves on that.
